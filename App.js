@@ -1,10 +1,31 @@
 import { Navigation } from 'react-native-navigation' 
+import { Provider } from 'react-redux'
+import configureStore from './src/store/config'
 
-import Login from './src/views/Login'
-import Home from './src/views/Login'
+import Login from './src/components/views/Login'
+import Home from './src/components/views/Home'
+import DetailScreen from './src/components/views/DetailsEvents'
 
-Navigation.registerComponent('TourustiqueLogin', () => Login)
-Navigation.registerComponent('TourustiqueHome', () => Home)
+const store = configureStore()
+// > Add store and use provider for link
+Navigation.registerComponent('TourustiqueLogin', 
+  () => 
+    Login,
+    store,
+    Provider
+)
+Navigation.registerComponent('TourustiqueHome', 
+  () => 
+    Home,
+    store,
+    Provider
+)
+Navigation.registerComponent('TourustiqueDetailScreen', 
+  () => 
+    DetailScreen,
+    store,
+    Provider
+)
 
 export default () => Navigation.startSingleScreenApp ({
   screen: {

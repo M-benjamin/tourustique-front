@@ -6,11 +6,11 @@ import {
   StyleSheet,
 } from 'react-native';
 // import SearchBar from '../components/HomeComponents/SearchBar';
-import Categories from '../../../src/components/HomeComponents/Categories';
-import Listings from '../../../src/components/HomeComponents/Listings';
-import colors from '../../styles/colors';
-import categoriesList from '../../data/categories';
-import listings from '../../data/listings';
+import Categories from '../../HomeComponent/Categories';
+import Listings from '../../HomeComponent/Listings';
+import colors from '../../../styles/colors';
+import categoriesList from '../../../data/categories';
+import listings from '../../../data/listings';
 
 console.disableYellowBox = true;
 class HomeScreen extends Component {

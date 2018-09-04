@@ -11,7 +11,7 @@ import {
   StyleSheet,
   Button
 } from 'react-native';
-import HeartButton from '../buttons/HeartButton';
+import HeartButton from '../ButtonComponent/HeartButton';
 // import Stars from '../Stars';
 import colors from '../../styles/colors';
 

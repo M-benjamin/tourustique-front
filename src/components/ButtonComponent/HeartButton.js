@@ -1,9 +1,3 @@
-/**
- * Airbnb Clone App
- * @author: Andy
- * @Url: https://www.cubui.com
- */
-
 import React, { Component } from 'react';
 import { PropTypes } from 'prop-types';
 import Icon from 'react-native-vector-icons/FontAwesome';
