@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCViewController.m \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCExternalViewControllerProtocol.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/Helpers/RCCTitleViewHelper.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/node_modules/react-native-navigation/ios/RCCCustomTitleView.h \
+  /Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootViewDelegate.h

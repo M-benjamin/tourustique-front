@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_bc1cce086e98ea07b6d5933496057d5c29946ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8379ebbcad4064d03026918d2b518d7633295c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3cef23cae8a19e0bae974d9f88c4b67089e0ba42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e6f7ec542ae0bcb729d96ecd980b732d51f538fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_1f0b54441462810ebcd59adfdf0796ece45df199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_8d37ac491cba71f0b96af1c36fd20435a98c585b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_6479ad59bcd4fb212dfe24b52353b185e0fdf449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_54ffe7a124c361a7b07dc3d91fadd05dd8d8c9cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1d90f243426cbb50b8d04809bd1bc42a313b605d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7f43173c7dc90ecca8ead25424c7cd200064bca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_1e7d2dd72461ffd0884dcb94e45661c31c61e89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_820bf633fe54ba8ce9b48fb7fbf807bd64225f7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f55aebcf94c1d22fafdfc237393935d361cb9eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_e70bf2b23f7254dc8e9a681ab0952ca29ba63a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/Tourustique/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f80cd1c1226ad216a8c749e9c7379dace29080d5">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/Tourustique-react-native-navigation-unspecified_488b8ac73b286349d20b6c1cbe8c83e423710495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_3394734951c0a8d623ffcbb3368695b2385b5e54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c2b8b5100f79eb0af976e60588d7f5bfb989e636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_7d0ce7d9b7dc06d6b700ded21fa6d152036bb62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5bdce385c5b433fc2de498539294416f94555ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_aed093881c4903f880886f1682eb16264ef4784a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_2bd71accc4bf6c416996f50d7d74d34ef4a5595b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e2aebf98e22d06a181be7a2e9c04558a37e6a966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_a111db2b6d27673e69ae18751fdd3b221d997a34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_5496825efb79f12b1aa753d9866f4d1d3517d5da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_bb436333197e255f5c050d47dbec4c2633d3265a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_ce94f5e7fa022e03eb61c4eeb6303dffd7c0077f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_f75a342561c6cc1ecb76ee892503aa5b7ccb0c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4547899066d72f51b6a3952daa8cb2c0aedad790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_db72daf5259ac7e17c0849d86dd1870c129682c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_fe796ea5df6882c383733d62900ffbc4fff620ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_c272773c65d4571baaf09e5fd6ed7a18e4ee8e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_1b54ca5994f094bb202f462d99d6f241cc1e4ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_03b4cbcc34138a29057b462fa75664ce2da3b86a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_bebafa5908cd64df291088e3cdc26adcd7a8aa4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_65c2129cfa4da83111a5afa6428a45d9f13a343a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/exploded-aar/Tourustique/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/efrei-paris/Documents/Projets-perso/Tourustique/tourustique-front/android/app/build/intermediates/pre-dexed/debug/Tourustique-react-native-vector-icons-unspecified_6fc41750bcca974d545b53fcc59b61b8a6e7dcc4.jar" />
+    </item>
+
+</items>
