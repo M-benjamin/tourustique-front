@@ -5,85 +5,105 @@ import {
   ScrollView,
   StyleSheet,
 } from 'react-native';
-// import SearchBar from '../components/HomeComponents/SearchBar';
-import Categories from '../../HomeComponent/Categories';
-import Listings from '../../HomeComponent/Listings';
-import colors from '../../../styles/colors';
-import categoriesList from '../../../data/categories';
-import listings from '../../../data/listings';
+import { Icon } from 'react-native-vector-icons/FontAwesome'
+import { connect } from 'react-redux' 
+import { bindActionCreators } from 'redux'
+import { getEvents } from '../../../store/actions/events_actions'
+import { 
+  gridTwoColumns
+} from '../../../utils/misc'
+import BlockItemHome from './blockItemHome';
 
 console.disableYellowBox = true;
 class HomeScreen extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      favouriteListings: [],
+      isLoading:true,
+      agenda: [],
+      events: []
     };
   }
 
-  renderListings = () => {
-    return listings.map((listing, index) => (
-      <View
-        key={`listing-${index}`}
-      >
-        <Listings
-          key={`listing-item-${index}`}
-          title={listing.title}
-          boldTitle={listing.boldTitle}
-          listings={listing.listings}
-          showAddToFav={listing.showAddToFav}
-          handleAddToFav={this.handleAddToFav}
-          favouriteListings={this.state.favouriteListings}
-        />
-      </View>
-    ));
+  showEvents = () => (
+    this.state.events.map( (item,i ) => (
+      <BlockItemHome
+        key={`columnHome-${i}`}
+        item={item}
+        iteration={i}
+        goto={this.goToEventHandler}
+      />
+    ))
+  )
+
+  goToEventHandler = (props) =>{
+    this.props.navigator.push({
+      screen:"Tourustique.Details",
+      animationType:"slide-horizontal",
+      passProps:{
+        EventData: props
+      },
+      backButtonTitle:'Back to home',
+      navigatorStyle:{
+        navBarTextFontSize: 20,
+        navBarTextColor: '#ffffff',
+        navBarTextFontFamily:'RobotoCondensed-Bold',
+        navBarBackgroundColor: '#00ADA9',
+        screenBackgroundColor: '#ffffff'
+      }
+    })
+  }
+
+  componentDidMount() {
+    this.props.getEvents('All').then(() => {
+      const newEvents = gridTwoColumns(this.props.Events.list)
+      this.setState({
+        isLoading: false,
+        events: newEvents
+      })
+    })
   }
 
   render() {
-    const { data } = this.props;
-    // console.log(data.multipleListings)
-    // <SearchBar />
     return (
-      <View style={styles.wrapper}>
-        <ScrollView
-          style={styles.scrollview}
-          contentContainerStyle={styles.scrollViewContent}
-        >
-          <Text style={styles.heading}>
-Explore Events
-          </Text>
-          <View style={styles.categories}>
-            <Categories categories={categoriesList} />
+        <ScrollView>
+          <View style={styles.container}>
+            <View style={styles.articleContainer}>
+              <View style={{flex:1}}>
+              {this.showEvents()}
+              </View>
+            </View>
           </View>
-          {this.renderListings()}
         </ScrollView>
-      </View>
     );
   }
 }
 
 const styles = StyleSheet.create({
-  wrapper: {
-    flex: 1,
-    backgroundColor: colors.white,
+  container:{
+    marginTop: 5,
   },
-  scrollview: {
-    paddingTop: 50,
+  isLoading:{
+    flex:1,
+    alignItems: 'center',
+    marginTop: 50
   },
-  scrollViewContent: {
-    paddingBottom: 80,
-  },
-  categories: {
-    marginBottom: 40,
-  },
-  heading: {
-    fontSize: 22,
-    fontWeight: '600',
-    paddingLeft: 20,
-    paddingBottom: 20,
-    color: colors.gray04,
-  },
+  eventContainer:{
+    padding:10,
+    flex:1,
+    flexDirection: 'row',
+    justifyContent: 'space-between'
+  }
 });
 
+function mapStateToProps(state){
+  return {
+    Events: state.Events
+  }
+}
 
-export default HomeScreen;
+function mapDispatchToProps(dispatch) {
+  return bindActionCreators({getEvents}, dispatch)
+} 
+
+export default connect(mapStateToProps, mapDispatchToProps)(HomeScreen);

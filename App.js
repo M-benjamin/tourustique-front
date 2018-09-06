@@ -4,7 +4,8 @@ import configureStore from './src/store/config'
 
 import Login from './src/components/views/Login'
 import Home from './src/components/views/Home'
-import DetailScreen from './src/components/views/DetailsEvents'
+import Agenda from './src/components/views/Agenda'
+import Detail from './src/components/views/Details'
 
 const store = configureStore()
 // > Add store and use provider for link
@@ -20,14 +21,21 @@ Navigation.registerComponent('TourustiqueHome',
     store,
     Provider
 )
-Navigation.registerComponent('TourustiqueDetailScreen', 
+Navigation.registerComponent('TourustiqueAgenda', 
   () => 
-    DetailScreen,
+    Agenda,
     store,
     Provider
 )
 
-export default () => Navigation.startSingleScreenApp ({
+Navigation.registerComponent('Tourustique.Details',
+  () =>
+  Detail,
+  store,
+  Provider
+);
+
+export default () => Navigation.startSingleScreenApp({
   screen: {
     screen: 'TourustiqueLogin',
     title: 'Login',
